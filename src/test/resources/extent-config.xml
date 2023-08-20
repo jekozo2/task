@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<extentreports>
+    <configuration>
+        <theme>dark</theme>
+        <encoding>UTF-8</encoding>
+        <protocol>https</protocol>
+        <documentTitle>Report Nuvei GitHub Create Repository</documentTitle>
+        <reportName>API Automated Tests</reportName>
+        <timeStampFormat>MMM dd, yyyy HH:mm:ss</timeStampFormat>
+    </configuration>
+</extentreports>
