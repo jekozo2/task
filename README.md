@@ -1,4 +1,4 @@
-# NUVEI Create GitHub Repository Automation Task
+# Create GitHub Repository Automation Task
 
 REST API TAF is a Java based framework for completing the Nuvei Task for Create GitHub Repository Automation Tests
 
